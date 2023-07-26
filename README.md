@@ -12,14 +12,8 @@
 * 🏊‍♂️ No todos son datos, también tengo mis hobbies. 🤖 ¡Realizar robots con Arduino!
 
 ## Conoce más sobre mí
-LINKEDIN
+[<img width="50" height="50" src="https://github.com/Sergy4697/Sergy4697/assets/31072988/e406f37b-8211-4449-a7e5-d18e0e75df6c" />](https://www.linkedin.com/in/sergioortegamoreno/)
+
 
 ## Lenguajes y Herramientas
-![Python](https://github.com/Sergy4697/Sergy4697/assets/31072988/7142ff38-eec0-4978-acf0-3f03abaaeb04)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://ibb.co/hMCkfrr" width="100" height="100" />
-
-
-https://ibb.co/Rv9qf0C
-https://ibb.co/GptdSVp
-https://ibb.co/s9Jj8D1
-https://ibb.co/hMCkfrr
+<img src="https://github.com/Sergy4697/Sergy4697/assets/31072988/7142ff38-eec0-4978-acf0-3f03abaaeb04" width="50" height="50"> <img src="https://github.com/Sergy4697/Sergy4697/assets/31072988/35905f64-80d2-44f8-b9a3-849fc93d267b" width="50" height="50"> <img src="https://github.com/Sergy4697/Sergy4697/assets/31072988/56c1c5dd-6730-47fd-b125-1dc831acd700" width="50" height="50"> <img src="https://github.com/Sergy4697/Sergy4697/assets/31072988/d9b8d720-1f30-4139-b200-33675c02874b" width="50" height="50">
