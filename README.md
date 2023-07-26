@@ -16,3 +16,10 @@ LINKEDIN
 
 ## Lenguajes y Herramientas
 ![Python](https://github.com/Sergy4697/Sergy4697/assets/31072988/7142ff38-eec0-4978-acf0-3f03abaaeb04)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://ibb.co/hMCkfrr" width="100" height="100" />
+
+
+https://ibb.co/Rv9qf0C
+https://ibb.co/GptdSVp
+https://ibb.co/s9Jj8D1
+https://ibb.co/hMCkfrr
